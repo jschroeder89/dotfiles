@@ -1,0 +1,19 @@
+{
+    "matlab.mlintpath": "/usr/local/MATLAB/R2017b/bin/glnxa64/",
+    "workbench.iconTheme": "vscode-icons",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.tabCompletion": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "workbench.panel.location": "bottom",    
+    "window.menuBarVisibility": "hidden",
+    "terminal.integrated.scrollback": 100000,
+    "explorer.confirmDragAndDrop": false,
+    "python.linting.enabledWithoutWorkspace": false,
+    "editor.fontSize": 10,
+    "workbench.colorTheme": "Atom One Light",
+    "terminal.integrated.fontFamily": "CodeNewRoman Nerd Font Mono",
+    "terminal.integrated.fontSize": 11
+}
