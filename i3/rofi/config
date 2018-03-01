@@ -1,0 +1,9 @@
+rofi.show-icons: true
+rofi.drun-icon-theme: papirus-icon-theme
+! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: #00ff4080,  #ffffff,  #00ffffff,  #87FFAF,  #ffffff
+rofi.color-urgent: #fdf6e3,  #00FF4080,  #00ffffff,  #ff4080,  #ff4080
+rofi.color-active: #ffffff,  #ffffff,  #ffffff,  #00ffffff,  #fdf6e3
+
+!                  'background', 'border', 'separator'
+rofi.color-window: #AF26ADCD,      #00000000,  #00000000
