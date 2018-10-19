@@ -1,0 +1,12 @@
+{
+	"CtrlLeft": "WordLeft",
+	"CtrlRight": "WordRight",
+	"CtrlUp": "MoveLinesUp",
+	"CtrlDown": "MoveLinesDown",
+	"PageUp": "StartOfLine",
+	"PageDown": "EndOfLine",
+	"CtrlShiftRight": "SelectWordRight",
+	"CtrlShiftLeft": "SelectWordLeft",
+	"CtrlShiftUp": "SelectToEndOfLine",
+	"CtrlShiftDown": "SelectToStartOfLine"
+}

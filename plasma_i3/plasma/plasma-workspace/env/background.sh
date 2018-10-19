@@ -1,0 +1,1 @@
+/home/johann/.config/background.sh
