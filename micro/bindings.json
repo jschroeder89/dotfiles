@@ -1,0 +1,13 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "CtrlDown": "MoveLinesDown",
+    "CtrlLeft": "WordLeft",
+    "CtrlRight": "WordRight",
+    "CtrlShiftDown": "SelectToStartOfLine",
+    "CtrlShiftLeft": "SelectWordLeft",
+    "CtrlShiftRight": "SelectWordRight",
+    "CtrlShiftUp": "SelectToEndOfLine",
+    "CtrlUp": "MoveLinesUp",
+    "PageDown": "EndOfLine",
+    "PageUp": "StartOfLine"
+}
